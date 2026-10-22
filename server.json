@@ -1,0 +1,23 @@
+{
+    "$schema":  "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+    "name":  "com.earthdroids/handlewise",
+    "title":  "HandleWise AI",
+    "description":  "Turn photos of your items into scheduled eBay listings on your own eBay seller account.",
+    "websiteUrl":  "https://earthdroids.com/handlewise/",
+    "version":  "1.0.1",
+    "remotes":  [
+                    {
+                        "type":  "streamable-http",
+                        "url":  "https://earthdroids.com/mcp"
+                    }
+                ],
+    "icons":  [
+                  {
+                      "mimeType":  "image/png",
+                      "sizes":  [
+                                    "256x256"
+                                ],
+                      "src":  "https://earthdroids.com/handlewise-icon.png"
+                  }
+              ]
+}
