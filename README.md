@@ -44,7 +44,7 @@ Any MCP client that supports remote servers with OAuth can connect to the same U
 
 ## Pricing
 
-Prepaid listing credits — a 50¢ trial for 2 listings, then packs from $5 for 100 listings. Credits never expire. eBay's own selling fees still apply. See https://earthdroids.com/handlewise/#pricing
+Prepaid listing credits — a 50¢ trial for 2 listings, then packs from $5 for 40 listings. Credits never expire. eBay's own selling fees still apply. See https://earthdroids.com/handlewise/#pricing
 
 ## Limitations
 
